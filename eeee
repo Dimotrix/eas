@@ -1,0 +1,63 @@
+repeat wait() until game:IsLoaded()
+
+if game.Players.LocalPlayer.UserId == 5624635004 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/11"))()
+elseif game.Players.LocalPlayer.UserId == 5624628467 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/111"))()
+elseif game.Players.LocalPlayer.UserId == 5624630767 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/1111"))()
+elseif game.Players.LocalPlayer.UserId == 5624555026 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/11111"))()
+elseif game.Players.LocalPlayer.UserId == 5624635066 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/2"))()
+elseif game.Players.LocalPlayer.UserId == 5021363383 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/22"))()
+elseif game.Players.LocalPlayer.UserId == 7167060862 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/222"))()
+elseif game.Players.LocalPlayer.UserId == 5631044137 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/2222"))()
+elseif game.Players.LocalPlayer.UserId ==  7167053604 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/22222"))()
+elseif game.Players.LocalPlayer.UserId == 5737084002 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/3"))()
+elseif game.Players.LocalPlayer.UserId == 5030683431 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/33"))()
+elseif game.Players.LocalPlayer.UserId ==  7167060778 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/333"))()
+elseif game.Players.LocalPlayer.UserId == 5030674100 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/3333"))()
+elseif game.Players.LocalPlayer.UserId == 5021356818 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/33333"))()
+elseif game.Players.LocalPlayer.UserId == 3603285558 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/4"))()
+elseif game.Players.LocalPlayer.UserId == 780851733 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/44"))()
+elseif game.Players.LocalPlayer.UserId == 1661220520 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/444"))()
+elseif game.Players.LocalPlayer.UserId == 7167062605 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/4444"))()
+elseif game.Players.LocalPlayer.UserId == 7167068995 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/44444"))()
+elseif game.Players.LocalPlayer.UserId == 5137191223 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/5"))()
+elseif game.Players.LocalPlayer.UserId == 5587780107 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/1"))()
+elseif game.Players.LocalPlayer.UserId == 5587782107 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/55"))()
+elseif game.Players.LocalPlayer.UserId == 5587782154 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/555"))()
+elseif game.Players.LocalPlayer.UserId == 5587784110 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/5555"))()
+elseif game.Players.LocalPlayer.UserId == 5587784135 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/55555"))()
+elseif game.Players.LocalPlayer.UserId == 5587784080 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/6"))()
+elseif game.Players.LocalPlayer.UserId == 5587786115 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/66"))()
+elseif game.Players.LocalPlayer.UserId == 5587786117 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/666"))()
+elseif game.Players.LocalPlayer.UserId == 5587796459 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/6666"))()
+elseif game.Players.LocalPlayer.UserId == 5587796455 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dimotrix/eeeeeeeeeeeeeeeeeeeeeeeeeeeeee/main/66666"))()
+end
